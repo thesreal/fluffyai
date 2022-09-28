@@ -1,21 +1,28 @@
 # fluffyai
-A Python-powered AI bot that can tell you the time, news, weather and definition of words.
-Watch the introduction video at https://www.youtube.com/watch?v=TG-T8yeN3d4.
---- Public Beta 1 ---
+A Python-powered AI bot that can tell you the time, news, weather and definition of words.<br>
+Watch the introduction video at https://www.youtube.com/watch?v=TG-T8yeN3d4.<br>
+--- Public Beta 1 ---<br>
 /!\ Warning - Debian Only /!\
-Dependecies:
-mpg321 (sudo apt install mpg321)
-python3
-Python dependecies:
-gTTS
-speech_recognition
-os
-random
-detetime
-urllib.request
-json
-http.client
-tkinter
-PIL (ImageTk, Image)
-eventregistry
-subprocess
+Dependecies:<br>
+mpg321 (sudo apt install mpg321)<br>
+python3<br>
+Python dependecies:<br>
+gTTS<br>
+speech_recognition<br>
+os<br>
+random<br>
+detetime<br>
+urllib.request<br>
+json<br>
+http.client<br>
+tkinter<br>
+PIL (ImageTk, Image)<br>
+eventregistry<br>
+subprocess<br>
+--- Commands ---
+You can say:<br>
+what is &lt;word&gt; = definition of word
+tell me the time = the time
+end = end
+tell me the weather = tells you the weather
+tell me the news = tells you the news
