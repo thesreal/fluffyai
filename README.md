@@ -19,10 +19,10 @@ tkinter<br>
 PIL (ImageTk, Image)<br>
 eventregistry<br>
 subprocess<br>
---- Commands ---
+--- Commands ---<br>
 You can say:<br>
-what is &lt;word&gt; = definition of word
-tell me the time = the time
-end = end
-tell me the weather = tells you the weather
-tell me the news = tells you the news
+what is &lt;word&gt; = definition of word<br>
+tell me the time = the time<br>
+end = end<br>
+tell me the weather = tells you the weather<br>
+tell me the news = tells you the news<br>
