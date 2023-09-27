@@ -1,6 +1,6 @@
 # fluffyai
 A Python-powered AI bot that can tell you the time, news, weather and definition of words.<br>
-Watch the introduction video at https://www.youtube.com/watch?v=TG-T8yeN3d4.<br>
+Watch the introduction video at https://yewtu.be/watch?v=TG-T8yeN3d4.<br>
 --- Public Beta 1 ---<br>
 /!\ Warning - Debian Only /!\
 Dependecies:<br>
